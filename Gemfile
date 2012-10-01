@@ -39,3 +39,4 @@ gem 'jquery-rails'
 
 gem 'omniauth'
 gem 'koala'
+gem 'pusher-client'
