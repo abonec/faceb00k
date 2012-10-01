@@ -1,9 +1,9 @@
 development:
-  app_id: YOUR APP ID
-  secret_key: YOUR SECRET
+  app_id: 411198212269313
+  secret_key: 9c13d469c36db82e95de54d2fd7eaed9
 test:
-  app_id: YOUR APP ID
-  secret_key: YOUR SECRET
+  app_id: 411198212269313
+  secret_key: 9c13d469c36db82e95de54d2fd7eaed9
 production:
-  app_id: YOUR APP ID
-  secret_key: YOUR SECRET
+  app_id: 411198212269313
+  secret_key: 9c13d469c36db82e95de54d2fd7eaed9
