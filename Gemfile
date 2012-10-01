@@ -39,11 +39,7 @@ gem 'jquery-rails'
 # gem 'capistrano'
 
 # To use debugger
-# gem 'debugger'
-gem "omniauth", "~> 1.1.1"
 gem "omniauth-facebook", "~> 1.4.1"
-# gem 'omniauth'
-# gem 'omniauth-facebook', '1.4.0'
 gem 'koala'
 gem 'pusher-client'
 gem 'mysql2'

@@ -192,7 +192,6 @@ DEPENDENCIES
   jquery-rails
   koala
   mysql2
-  omniauth (~> 1.1.1)
   omniauth-facebook (~> 1.4.1)
   pusher-client
   rails (= 3.2.8)
