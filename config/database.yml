@@ -6,10 +6,10 @@
 development:
   adapter: mysql2
   encoding: utf8
-  database: asnow_fb
+  database: faceb00k
   pool: 5
-  username: root
-  password: 123qwe
+  username: faceb00k
+  password: supersecret
 
 # Warning: The database defined as "test" will be erased and
 # re-generated from your development database when you run "rake".
