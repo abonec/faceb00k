@@ -38,5 +38,6 @@ gem 'jquery-rails'
 # gem 'debugger'
 
 gem 'omniauth'
+gem 'omniauth-facebook'
 gem 'koala'
 gem 'pusher-client'
